@@ -2331,10 +2331,10 @@
             <StartX>57</StartX>
             <StartY>147</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
-            <MovementSpeed>2</MovementSpeed>
+            <MovementSpeed>1</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
             <MovementSpeedY>0</MovementSpeedY>
-            <AnimationDelay>3</AnimationDelay>
+            <AnimationDelay>2</AnimationDelay>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
             <Solid>False</Solid>
