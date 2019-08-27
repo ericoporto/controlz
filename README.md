@@ -23,8 +23,8 @@ Controlz only has a single function
 
 `Controlz(Character* c, bool down,  bool left,  bool right,  bool up)`
 
-Call it on your repeatedly execute always, passing a character and which keys are
-pressed at that time.
+Call it on your repeatedly execute or repeatedly execute always, 
+passing a character and which keys are pressed at that time.
 
 ## Author and License
 
