@@ -1,6 +1,11 @@
 # controlz
 Move your character with keyboard or joystick controlz for Adventure Game Studio.
 
+![](controlz_demo.gif)
+
+This code was originally made by Dualnames for Strangeland and I eri0o got my hands on
+it and wrapped in this function to be easier to repurpose.
+
 ## usage
 
 ```AGS Script
@@ -26,9 +31,6 @@ Controlz only has a single function
 Call it on your repeatedly execute or repeatedly execute always, 
 passing a character and which keys are pressed at that time.
 
-## Author and License
-
-This code was originally made by Dualnames for Strangeland and I eri0o got my hands on
-it and wrapped in this function to be easier to repurpose.
+## License
 
 This code is licensed with MIT [`LICENSE`](LICENSE).

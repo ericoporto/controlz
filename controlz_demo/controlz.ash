@@ -33,7 +33,7 @@
 // it and wrapped in this function to be easier to repurpose.
 //  MIT License
 //
-//  Copyright (c) 2019 Érico Vieira Porto, Dualnames
+//  Copyright (c) 2019 Dualnames, Érico Vieira Porto
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
@@ -60,4 +60,5 @@ enum MovingState {
   eControlzJustStopped=2, 
 };
 
+/// Pass a character and four directional booleans, like IsKeyPressed(eKeyDownArrow) .
 import MovingState Controlz(Character* c, bool down,  bool left,  bool right,  bool up);

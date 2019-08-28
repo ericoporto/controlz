@@ -2302,7 +2302,7 @@
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
             <UseRoomAreaLighting>True</UseRoomAreaLighting>
             <TurnBeforeWalking>True</TurnBeforeWalking>
-            <DiagonalLoops>False</DiagonalLoops>
+            <DiagonalLoops>True</DiagonalLoops>
             <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
             <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
             <MovementLinkedToAnimation>True</MovementLinkedToAnimation>
@@ -2342,7 +2342,7 @@
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
             <UseRoomAreaLighting>True</UseRoomAreaLighting>
             <TurnBeforeWalking>True</TurnBeforeWalking>
-            <DiagonalLoops>False</DiagonalLoops>
+            <DiagonalLoops>True</DiagonalLoops>
             <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
             <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
             <MovementLinkedToAnimation>False</MovementLinkedToAnimation>
