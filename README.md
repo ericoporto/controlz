@@ -13,8 +13,10 @@ it and wrapped in this function to be easier to repurpose.
 function repeatedly_execute() 
 {
   Controlz(player, 
-    IsKeyPressed(eKeyDownArrow),  IsKeyPressed(eKeyLeftArrow), 
-    IsKeyPressed(eKeyRightArrow),  IsKeyPressed(eKeyUpArrow));
+    IsKeyPressed(eKeyDownArrow),
+    IsKeyPressed(eKeyLeftArrow), 
+    IsKeyPressed(eKeyRightArrow),
+    IsKeyPressed(eKeyUpArrow));
 
   Controlz(cEgo2, 
     IsKeyPressed(eKeyS),  IsKeyPressed(eKeyA), 
