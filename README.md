@@ -3,8 +3,9 @@ Move your character with keyboard or joystick controlz for Adventure Game Studio
 
 ![](controlz_demo.gif)
 
-This code was originally made by Dualnames for Strangeland and I eri0o got my hands on
-it and wrapped in this function to be easier to repurpose.
+This code was originally made by Dualnames for Strangeland and I eri0o got his 
+permission to open source and wrapped in this function to be easier for 
+consumption.
 
 ## usage
 
