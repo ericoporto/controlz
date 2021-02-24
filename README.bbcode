@@ -1,5 +1,6 @@
 [size=18pt][b]Controlz[/b][/size]  [b][color=gray]0.2.0[/color][/b]
-[b][url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz.scm]controlz.scm[/url] | [url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz_demo_windows.zip]controlz_demo_windows.zip[/url] | [url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz_demo_linux.tar.gz]controlz_demo_linux.tar.gz[/url][/b]
+[url=https://ci.appveyor.com/project/ericoporto/controlz][img]https://ci.appveyor.com/api/projects/status/vtdp219cu3qlhy7x?svg=true[/img][/url]
+[b][url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz.scm]controlz.scm[/url] | [url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz_demo_windows.zip]controlz_demo_windows.zip[/url] | [url=https://github.com/ericoporto/controlz/releases/download/0.2.0/controlz_demo_linux.tar.gz]controlz_demo_linux.tar.gz[/url][/b] | [url=https://github.com/ericoporto/controlz]GitHub repo[/url]
 
 Move your character with keyboard or joystick controlz for Adventure Game Studio.
 
@@ -9,7 +10,9 @@ This code was originally made by Dualnames for Strangeland and I eri0o got his p
 
 [size=12pt][size=14pt][b]Usage example[/b][/size][/size]
 
-Call it on repeatedly execute passing a character and some way to check for directional keys, once for each direction (down, left, right, up).
+Call it on repeatedly execute, in your Global Script or in the script that you deal with player input, passing a character and some way to check for directional keys, once for each direction (down, left, right, up).
+
+In the example below, WASD will be used to control the player character, and arrow keys will be used to control a second character named cEgo2.
 
 [code=ags]
 // called on every game cycle, except when the game is blocked
