@@ -1,5 +1,5 @@
 // controlz module header
-// # controlz
+// # controlz 0.2.0
 // Move your character with keyboard or joystick controlz for Adventure Game Studio.
 // 
 // ## usage
