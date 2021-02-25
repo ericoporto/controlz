@@ -70,7 +70,7 @@
       <Description />
       <ReleaseDate>2018-01-01</ReleaseDate>
       <Genre>Adventure</Genre>
-      <Version>0.2.0.0</Version>
+      <Version>0.3.0.0</Version>
       <WindowsExperienceIndex>1</WindowsExperienceIndex>
       <DeveloperName />
       <DeveloperURL />
@@ -2299,7 +2299,7 @@
             <AnimationDelay>4</AnimationDelay>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
-            <Solid>False</Solid>
+            <Solid>True</Solid>
             <Clickable>True</Clickable>
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
             <UseRoomAreaLighting>True</UseRoomAreaLighting>
@@ -2339,7 +2339,7 @@
             <AnimationDelay>2</AnimationDelay>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
-            <Solid>False</Solid>
+            <Solid>True</Solid>
             <Clickable>True</Clickable>
             <UseRoomAreaScaling>True</UseRoomAreaScaling>
             <UseRoomAreaLighting>True</UseRoomAreaLighting>
@@ -4668,7 +4668,7 @@
                 <Name>controlz</Name>
                 <Description>Move your character with keyboard or joystick.</Description>
                 <Author>eri0o, Dualnames</Author>
-                <Version>0.2.0</Version>
+                <Version>0.3.0</Version>
                 <Key>563857778</Key>
                 <IsHeader>False</IsHeader>
               </Script>
