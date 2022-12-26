@@ -19,7 +19,7 @@ artifacts:
 deploy:
 - provider: GitHub
   auth_token:
-    secure: wZdCrU9dcec59hLKrRi7G6N4mWamWoDHcGTe4T2P5YJsV7CEYCyEcDwulO0V3bzK
+    secure: s4GYQwPs7midYlucoxO2HdJGjYxJCf9xEp9fakfJljeGu4JWRxhiA043fIdUmxRCXBspnBqubH5xFTY6ZeBKKbjRwMlE2MUc6vb6Yc6vK/5n8fydG4CHVF5wRvFjFsgH
   artifact: controlz.scm, controlz_demo_linux.tar.gz, controlz_demo_windows.zip, package.json
   draft: false
   prerelease: false
