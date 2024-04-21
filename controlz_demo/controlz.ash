@@ -1,5 +1,5 @@
 // controlz module header
-// # controlz 0.3.1
+// # controlz 0.4.0
 // Move your character with keyboard or joystick controlz for Adventure Game Studio.
 // 
 // ## usage
@@ -33,7 +33,7 @@
 // it and wrapped in this function to be easier to repurpose.
 //  MIT License
 //
-//  Copyright (c) 2022 Dualnames, Érico Vieira Porto
+//  Copyright (c) 2024 Dualnames, Ã‰rico Vieira Porto
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
