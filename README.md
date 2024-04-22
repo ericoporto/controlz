@@ -1,5 +1,5 @@
 # controlz
-[![Build status](https://ci.appveyor.com/api/projects/status/vtdp219cu3qlhy7x?svg=true)](https://ci.appveyor.com/project/ericoporto/controlz)
+[![build-and-test-windows](https://github.com/ericoporto/controlz/actions/workflows/main.yml/badge.svg)](https://github.com/ericoporto/controlz/actions)
 
 Move your character with keyboard or joystick controlz for Adventure Game Studio.
 
