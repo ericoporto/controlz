@@ -55,9 +55,10 @@
 
 enum MovingState {
   eControlzJustInvalid=-1, 
-  eControlzStopped=0, 
-  eControlzMoving=1, 
+  eControlzStopped=0,
+  eControlzMoving=1,
   eControlzJustReleased=2, 
+  eControlzWalkingInPlace=3, 
 };
 
 /// Pass a character and four directional booleans, like IsKeyPressed(eKeyDownArrow) .
