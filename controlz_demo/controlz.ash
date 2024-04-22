@@ -61,4 +61,4 @@ enum MovingState {
 };
 
 /// Pass a character and four directional booleans, like IsKeyPressed(eKeyDownArrow) .
-import MovingState Controlz(Character* c, bool down,  bool left,  bool right,  bool up);
+import MovingState Controlz(Character* c, bool down, bool left, bool right, bool up);
